@@ -14,10 +14,10 @@
 
 <h2>🧰 Technologies & Tools I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,ts,jquery,nodejs,npm,php" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,ts,jquery,nodejs,php" alt="My Skills">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,regex,redux,mysql,tailwind,bootstrap,figma" alt="My Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,regex,redux,nmp,mysql,tailwind,bootstrap,figma" alt="My Tools">
 </p>
 
 <hr/>
