@@ -1,6 +1,6 @@
 <h2>👋 Hi there! I'm Mohammadreza</h2>
 
-<h3>👨‍💻 Frontend Developer | Passionate about clean & minimal UI/UX</h3>
+<h3>👨‍💻 Frontend Developer who loves turning ideas into elegant and user-friendly web experiences</h3>
 
 <ul>
   <li>🔭 Currently working on: [Your Highlight Project]</li>
@@ -14,28 +14,25 @@
 
 <h2>🧰 Technologies & Tools I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode,figma" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,ts,jquery,nodejs,npm,php,mysql" alt="My Skills">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,regex,redux,tailwind,bootstrap,figma" alt="My Tools">
 </p>
 
 <hr/>
 
 <h2>📈 GitHub Stats</h2>
-<div  align="center">
-  <p style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=holi&border_radius=16" alt="GitHub Stats">
+
+<div  align="center" style="display: flex;">
+  <p >
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=holi&border_radius=16" alt="GitHub Stats" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=holi&border_radius=16" alt="Top Languages" height="200">
 </p>
-<p style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=holi&border_radius=16" alt="Top Languages">
-</p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammadrezalotfii&theme=algolia&row=1&column=8&margin-w=16" />
-  </p>
+  
 </div>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark" alt="Activity Graph">
-</p>
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
