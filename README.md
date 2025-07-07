@@ -1,42 +1,60 @@
-## 👋 Hi there! I'm Mohammadreza
+<h2>👋 Hi there! I'm Mohammadreza</h2>
 
-### 👨‍💻 Frontend Developer | Passionate about clean & minimal UI/UX
+<h3>👨‍💻 Frontend Developer | Passionate about clean & minimal UI/UX</h3>
 
-- 🔭 Currently working on: [Your Highlight Project]
-- 🌱 Learning: React, Vue.js, TypeScript
-- 💬 Ask me about: HTML, CSS, JavaScript, Tailwind CSS
-- 📫 How to reach me: [mohammadrezalottfii@gmail.com](mailto:mohammadrezalottfii@gmail.com)
-- ⚡ Fun facts: I love futsal, calisthenics, and Japanese music
+<ul>
+  <li>🔭 Currently working on: [Your Highlight Project]</li>
+  <li>🌱 Learning: React, Vue.js, TypeScript</li>
+  <li>💬 Ask me about: HTML, CSS, JavaScript, Tailwind CSS</li>
+  <li>📫 How to reach me: <a href="mailto:mohammadrezalottfii@gmail.com">mohammadrezalottfii@gmail.com</a></li>
+  <li>⚡ Fun facts: I love futsal, calisthenics, and Japanese music</li>
+</ul>
 
----
+<hr/>
 
-## 🧰 Technologies & Tools I Use
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode,figma)
+<h2>🧰 Technologies & Tools I Use</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode,figma" alt="My Skills">
+</p>
 
----
+<hr/>
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark)
-![Snake Animation](https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake-dark.svg)
+<h2>📈 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical" alt="Top Languages">
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark" alt="Activity Graph">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
 
----
+<hr/>
 
-## ✨ Featured Projects
-🔹 [Project Name](#) – A brief description of the project, its purpose, and technologies used  
-🔹 [Project Name](#) – A short summary with a live demo link if available  
+<h2>✨ Featured Projects</h2>
+<ul>
+  <li><a href="#">Project Name</a> – A brief description of the project, its purpose, and technologies used</li>
+  <li><a href="#">Project Name</a> – A short summary with a live demo link if available</li>
+</ul>
 
----
+<hr/>
 
-## 🧠 Currently Focusing On
-- Building real-world frontend projects with clean code
-- Learning advanced JavaScript patterns and React ecosystem
-- Improving performance, SEO, and accessibility in modern web apps
+<h2>🧠 Currently Focusing On</h2>
+<ul>
+  <li>Building real-world frontend projects with clean code</li>
+  <li>Learning advanced JavaScript patterns and React ecosystem</li>
+  <li>Improving performance, SEO, and accessibility in modern web apps</li>
+</ul>
 
----
+<hr/>
 
-## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mohammadreza-lottfi/)
-- [Portfolio Website](#)
-- [Telegram](#)
+<h2>🌐 Let's Connect</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/mohammadreza-lottfi/">LinkedIn</a></li>
+  <li><a href="#">Portfolio Website</a></li>
+  <li><a href="#">Telegram</a></li>
+</ul>
