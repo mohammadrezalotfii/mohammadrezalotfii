@@ -13,19 +13,25 @@
 <hr/>
 
 <h2>🧰 Technologies & Tools I Use</h2>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode,figma" alt="My Skills">
 </p>
 
 <hr/>
 
 <h2>📈 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical" alt="GitHub Stats">
+<div  align="center">
+  <p style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=holi&border_radius=16" alt="GitHub Stats">
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical" alt="Top Languages">
+<p style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=holi&border_radius=16" alt="Top Languages">
 </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammadrezalotfii&theme=algolia&row=1&column=8&margin-w=16" />
+  </p>
+</div>
+
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark" alt="Activity Graph">
 </p>
