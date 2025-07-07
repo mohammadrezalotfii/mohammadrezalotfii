@@ -1,28 +1,42 @@
-## 👋 سلام! من محمدرضا هستم
+## 👋 Hi there! I'm Mohammadreza
 
-### 👨‍💻 توسعه‌دهنده فرانت‌اند | عاشق طراحی‌های تمیز و مینیمال
+### 👨‍💻 Frontend Developer | Passionate about clean & minimal UI/UX
 
-- 🔭 در حال کار روی: [یک پروژه خاص که دوست داری هایلایت بشه]
-- 🌱 در حال یادگیری: React، Vue.js، TypeScript
-- 💬 بپرس ازم درباره: HTML, CSS, JavaScript, Tailwind
-- 📫 ارتباط با من: [ایمیل یا لینک تلگرام]
-- ⚡ سرگرمی‌هام: فوتسال، کلیستنیکس، موسیقی ژاپنی
-
----
-
-## 🧰 تکنولوژی‌هایی که استفاده می‌کنم
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,git,github,vscode)
+- 🔭 Currently working on: [Your Highlight Project]
+- 🌱 Learning: React, Vue.js, TypeScript
+- 💬 Ask me about: HTML, CSS, JavaScript, Tailwind CSS
+- 📫 How to reach me: [mohammadrezalottfii@gmail.com](mailto:mohammadrezalottfii@gmail.com)
+- ⚡ Fun facts: I love futsal, calisthenics, and Japanese music
 
 ---
 
-## 📈 آمار فعالیت من در گیت‌هاب
+## 🧰 Technologies & Tools I Use
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode)
+
+---
+
+## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical)
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark)
-![snake animation](https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark)
+![Snake Animation](https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake.svg)
 
 ---
 
-## ✨ پروژه‌های برتر
-🔹 [نام پروژه](لینک) – توضیح مختصر  
-🔹 [نام پروژه](لینک) – توضیح مختصر  
+## ✨ Featured Projects
+🔹 [Project Name](#) – A brief description of the project, its purpose, and technologies used  
+🔹 [Project Name](#) – A short summary with a live demo link if available  
+
+---
+
+## 🧠 Currently Focusing On
+- Building real-world frontend projects with clean code
+- Learning advanced JavaScript patterns and React ecosystem
+- Improving performance, SEO, and accessibility in modern web apps
+
+---
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mohammadreza-lottfi/)
+- [Portfolio Website](#)
+- [Telegram](#)
