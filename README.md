@@ -11,7 +11,7 @@
 ---
 
 ## 🧰 Technologies & Tools I Use
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,ts,tailwind,bootstrap,git,github,vscode,figma)
 
 ---
 
