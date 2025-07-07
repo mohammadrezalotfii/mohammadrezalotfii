@@ -19,7 +19,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark)
-![Snake Animation](https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
