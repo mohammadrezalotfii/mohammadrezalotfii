@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,ts,jquery,nodejs,php" alt="My Skills">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,regex,redux,npm,mysql,tailwind,bootstrap,figma" alt="My Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,regex,redux,npm,mysql,vscode,tailwind,bootstrap,figma" alt="My Tools">
 </p>
 
 <hr/>
