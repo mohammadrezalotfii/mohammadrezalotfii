@@ -17,7 +17,7 @@
 
 ## 📈 آمار فعالیت من در گیت‌هاب
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalottii&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical)
 
 ---
 
