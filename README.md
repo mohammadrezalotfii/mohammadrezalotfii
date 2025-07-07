@@ -16,8 +16,8 @@
 ---
 
 ## 📈 آمار فعالیت من در گیت‌هاب
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mreza-web&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mreza-web&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadrezalottfii&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalottfii&layout=compact&theme=radical)
 
 ---
 
