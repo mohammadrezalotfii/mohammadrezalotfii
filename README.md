@@ -18,8 +18,8 @@
 ## 📈 آمار فعالیت من در گیت‌هاب
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadrezalotfii&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezalotfii&layout=compact&theme=radical)
-![github contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammadrezalotfii&theme=react-dark)
-![snake animation](https://github.com/mohammadrezalotfii/mohammadrezalotfii/blob/output/github-contribution-grid-snake.svg)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadrezalotfii&theme=react-dark)
+![snake animation](https://raw.githubusercontent.com/mohammadrezalotfii/mohammadrezalotfii/output/github-contribution-grid-snake.svg)
 
 ---
 
