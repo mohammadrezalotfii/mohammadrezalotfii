@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,regex,redux,npm,mysql,vscode,tailwind,bootstrap,figma" alt="My Tools">
 </p>
 
-<hr/>
+<hr/> 
 
 <h2>📈 GitHub Stats</h2>
 
